@@ -4,7 +4,7 @@ A simple basketball scoreboard built with **HTML**, **CSS**, and **JavaScript**.
 
 ## Features
 
-- Home and Guest scoreboards
+- Los angeles lakers and Chicago Bulls scoreboards
 - Add **1**, **2**, or **3** points with a single click
 - Automatic score updates
 - Clean and responsive layout
